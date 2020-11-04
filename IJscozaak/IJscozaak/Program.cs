@@ -46,7 +46,9 @@ namespace IJscozaak
 
                     try
                     {
-                        keuzeBakjeOfHoorntje = Convert.ToInt32((Console.ReadLine()));
+                        Bestellingen bestellingBakjeOfHoorntje = new Bestellingen();
+                        bestellingBakjeOfHoorntje.setKeuzeBolletjeOfHoorntje(Convert.ToInt32((Console.ReadLine())));
+                       
                     }
                     catch (Exception)
                     {
@@ -54,7 +56,7 @@ namespace IJscozaak
                     }
 
 
-                    if (keuzeBakjeOfHoorntje < bakjeOfHoorntje.Length + 1)
+                    if (keuzeBakjeOfHoorntje < bakjeOfHoorntje.Length + 1 && keuzeBakjeOfHoorntje> 0)
                     {
                         herhaal = 1;
                     }
@@ -147,11 +149,10 @@ namespace IJscozaak
                         catch (Exception)
                         {
                             keuzeIjsbol[teller] = 7;
-
                         }
 
 
-                        if (keuzeIjsbol[teller] < smaakjes.Length+1 )
+                        if (keuzeIjsbol[teller] < smaakjes.Length+1 && keuzeIjsbol[teller]>0 )
                         {
                             herhaal = 1;
                         }
@@ -301,7 +302,7 @@ namespace IJscozaak
                 }
 
 
-                if (keuzetopping < toppings.Length + 1)
+                if (keuzetopping < toppings.Length + 1 && keuzetopping > 0)
                 {
                     herhaal2 = 1;
                 }

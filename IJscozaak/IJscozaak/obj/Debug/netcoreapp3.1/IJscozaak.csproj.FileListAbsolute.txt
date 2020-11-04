@@ -24,3 +24,16 @@ E:\ICTP\IJscozaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.csproj.C
 E:\ICTP\IJscozaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.dll
 E:\ICTP\IJscozaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.pdb
 E:\ICTP\IJscozaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.genruntimeconfig.cache
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\bin\Debug\netcoreapp3.1\IJscozaak.exe
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\bin\Debug\netcoreapp3.1\IJscozaak.deps.json
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\bin\Debug\netcoreapp3.1\IJscozaak.runtimeconfig.json
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\bin\Debug\netcoreapp3.1\IJscozaak.runtimeconfig.dev.json
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\bin\Debug\netcoreapp3.1\IJscozaak.dll
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\bin\Debug\netcoreapp3.1\IJscozaak.pdb
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.csprojAssemblyReference.cache
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.AssemblyInfoInputs.cache
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.AssemblyInfo.cs
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.dll
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.pdb
+C:\Users\Student.DESKTOP-NLE9OIH\Desktop\ICTP\Ijscozaak\Ijszaak\IJscozaak\IJscozaak\obj\Debug\netcoreapp3.1\IJscozaak.genruntimeconfig.cache

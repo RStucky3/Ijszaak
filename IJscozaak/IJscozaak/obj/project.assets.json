@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ruben\\.nuget\\packages\\": {}
+    "C:\\Users\\Student.DESKTOP-NLE9OIH\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ICTP\\IJscozaak\\IJscozaak\\IJscozaak\\IJscozaak.csproj",
+      "projectUniqueName": "C:\\Users\\Student.DESKTOP-NLE9OIH\\Desktop\\ICTP\\Ijscozaak\\Ijszaak\\IJscozaak\\IJscozaak\\IJscozaak.csproj",
       "projectName": "IJscozaak",
-      "projectPath": "E:\\ICTP\\IJscozaak\\IJscozaak\\IJscozaak\\IJscozaak.csproj",
-      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "E:\\ICTP\\IJscozaak\\IJscozaak\\IJscozaak\\obj\\",
+      "projectPath": "C:\\Users\\Student.DESKTOP-NLE9OIH\\Desktop\\ICTP\\Ijscozaak\\Ijszaak\\IJscozaak\\IJscozaak\\IJscozaak.csproj",
+      "packagesPath": "C:\\Users\\Student.DESKTOP-NLE9OIH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student.DESKTOP-NLE9OIH\\Desktop\\ICTP\\Ijscozaak\\Ijszaak\\IJscozaak\\IJscozaak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student.DESKTOP-NLE9OIH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
